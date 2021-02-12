@@ -24,4 +24,14 @@ input:<br>
  5<br>
 output: <br>
  Odd<br>
+ 
+  <h2> Problem 4: Print the given pattern </h2>
+<p>Your task here is to print half pyramid of stars.<br>
+Example<br>
+input:<br>
+ 3<br>
+output: <br>
+ *<br>
+ **<br>
+ ***<br>
 
