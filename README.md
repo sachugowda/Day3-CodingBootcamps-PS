@@ -9,3 +9,10 @@ input:<br>
 output: <br>
  10<br>
 
+<h2> Problem 2: Fibonacci Series </h2>
+<p>You will be given a positive integer 'n'. Your task is to print the first 'n' terms of the fibonacci series.<br>
+Example<br>
+input:<br>
+ 4<br>
+output: <br>
+ 0 1 1 2<br>
