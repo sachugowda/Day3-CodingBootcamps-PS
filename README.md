@@ -16,3 +16,12 @@ input:<br>
  4<br>
 output: <br>
  0 1 1 2<br>
+ 
+ <h2> Problem 3: Odd or Even </h2>
+<p>Check whether an integer is odd or even<br>
+Example<br>
+input:<br>
+ 5<br>
+output: <br>
+ Odd<br>
+
