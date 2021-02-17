@@ -10,6 +10,7 @@
 int main()
 {
     int N;
+    printf("Enter the value for N\n");
     scanf("%d", &N);
 
     //Write your code here
