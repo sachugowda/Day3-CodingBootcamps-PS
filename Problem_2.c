@@ -8,7 +8,7 @@
 int main()
 {
     int n;
-
+    printf("Enter the value for n\n");
     scanf("%d", &n);
 
     //Write your code here
